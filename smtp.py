@@ -6,7 +6,7 @@ from email.mime.text import MIMEText
 from email import encoders
 from email.utils import parseaddr, formataddr
 
-
+# tested by jiatao 
 from_addr = 'monkeyliu1980@163.com'
 to_addr = 'itsm@morganstanleyhuaxin.com' 
 #1487584702@qq.com, Jiatao.Liu@morganstanleyhuaxin.com, itsm@morganstanleyhuaxin.com
