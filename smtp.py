@@ -8,8 +8,8 @@ from email.utils import parseaddr, formataddr
 
 # tested by jiatao 
 from_addr = 'monkeyliu1980@163.com'
-to_addr = 'itsm@morganstanleyhuaxin.com' 
-#1487584702@qq.com, Jiatao.Liu@morganstanleyhuaxin.com, itsm@morganstanleyhuaxin.com
+to_addr = 'monkeyliu1980@163.com' 
+#1487584702@qq.com
 
 server = smtplib.SMTP('smtp.163.com', 25)
 server.set_debuglevel(1)
