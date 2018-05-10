@@ -10,6 +10,7 @@ from email.utils import parseaddr, formataddr
 from_addr = 'monkeyliu1980@163.com'
 to_addr = 'monkeyliu1980@163.com' 
 #1487584702@qq.com
+#modiy again
 
 server = smtplib.SMTP('smtp.163.com', 25)
 server.set_debuglevel(1)
